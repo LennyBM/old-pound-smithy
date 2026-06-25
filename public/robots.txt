@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://old-pound-smithy.vercel.app/sitemap.xml
